@@ -1,0 +1,2 @@
+# SPECS
+rpmbuild

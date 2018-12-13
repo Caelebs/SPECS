@@ -10,7 +10,7 @@ Group: System Environment/Daemons
 # OpenSSL link exception
 License: GPLv2 with exceptions
 URL: https://security.appspot.com/vsftpd.html
-Packager: jWX384705 
+Packager: 24h 
 Source0: https://security.appspot.com/downloads/%{name}-%{version}.tar.gz
 Source1: vsftpd.xinetd
 Source2: vsftpd.pam
